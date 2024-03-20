@@ -11,5 +11,4 @@ RoadRunner is an interactive web application designed to explore Dijkstra's algo
 RoadRunner empowers users to experiment with graph structures and gain insights into Dijkstra's algorithm through an engaging and interactive experience. Whether you're a student exploring algorithms or a developer seeking to enhance your understanding, RoadRunner provides an exciting journey through the realm of graph theory and pathfinding algorithms.
 
 Contributors:
-Keval Patel.
-Shivang Chordia.
+Keval Patel & Shivang Chordia.
